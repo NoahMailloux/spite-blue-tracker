@@ -23,7 +23,7 @@ Settings → Secrets and variables → Actions → **Variables** tab:
 
 | Variable  | Example          | Default | Meaning |
 |-----------|------------------|---------|---------|
-| `GAMES`   | `forever,retail` | all     | Games to keep: `forever`, `retail`, `classic`, `ptr`, `news` (blizzard.com articles) |
+| `GAMES`   | `forever,retail` | `forever` | Games to keep: `forever`, `retail`, `classic`, `ptr`, `news` (blizzard.com articles) |
 | `REGIONS` | `us` or `us,eu`  | `us`    | Blizzard posts most things to both regions, so `us` avoids duplicates |
 
 ## How it works

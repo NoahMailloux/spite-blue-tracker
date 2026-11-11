@@ -27,7 +27,7 @@ jobs:
       - name: Check feed and post new blue posts
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          GAMES: ${{ vars.GAMES }}
+          GAMES: ${{ vars.GAMES || 'forever' }}
           REGIONS: ${{ vars.REGIONS || 'us' }}
           TEST_POST: ${{ inputs.test_post && '1' || '' }}
         run: python3 tracker.py
