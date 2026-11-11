@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Warcraft Tavern Blue Tracker</title>
+    <link>https://www.warcrafttavern.com/blue-tracker</link>
+    <description>World of Warcraft Blue Post Tracker</description>
+    <item>
+      <title>WoW: Forever Hotfixes - November 10, 2026</title>
+      <link>https://www.warcrafttavern.com/blue-tracker/forever/post/us/2403040</link>
+      <description>November 10, 2026
+Auction House
+
+With realm restarts:
+
+Adjusted the minimum deposit amount to 1 copper (was 1 silver).</description>
+      <guid isPermaLink="false">forum-30849309</guid>
+      <category>us</category>
+      <pubDate>Wed, 11 Nov 2026 08:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bugged/missing shaman totems since Monday's server chaos</title>
+      <link>https://www.warcrafttavern.com/blue-tracker/forever/post/us/2409772</link>
+      <description>We have just deployed a fix for this to all regions.</description>
+      <guid isPermaLink="false">forum-30847342</guid>
+      <category>us</category>
+      <pubDate>Wed, 11 Nov 2026 06:10:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>No gold from quests at lvl 60? Seriously?</title>
+      <link>https://www.warcrafttavern.com/blue-tracker/forever/post/eu/640380</link>
+      <description>When we evaluated the economy going into WoW: Forever...</description>
+      <guid isPermaLink="false">forum-6490858</guid>
+      <category>eu</category>
+      <pubDate>Wed, 11 Nov 2026 02:56:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly</title>
+      <link>https://www.warcrafttavern.com/blue-tracker/retail/post/us/2408677</link>
+      <description>&lt;a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/e2/E2JLBYT6REX11793371355279.png"&gt;[Prepare for Forever]&lt;/a&gt; From the global launch of World of Warcraft: Forever on November 4 to the eerie adventures of Midnight’s Talebound demo.</description>
+      <guid isPermaLink="false">forum-30829178</guid>
+      <category>us</category>
+      <pubDate>Tue, 10 Nov 2026 05:36:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Venomous Abyss Raid Tuning Incoming</title>
+      <link>https://www.warcrafttavern.com/blue-tracker/retail/post/us/2402937</link>
+      <description>The Ula’tek adjustments have recently been pushed live. &lt;img src="https://example.com/smiley.png" title=":smiley:" class="emoji" alt=":smiley:"&gt;</description>
+      <guid isPermaLink="false">forum-30782728</guid>
+      <category>us</category>
+      <pubDate>Fri, 06 Nov 2026 23:58:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Adventure Begins in WoW: Forever, Stay Connected with Discord, and Taldramir Takes Shape in WoW Weekly</title>
+      <link>https://news.blizzard.com/en-us/article/24316097/the-adventure-begins-in-wow-forever</link>
+      <description>Azeroth has a new home, and the adventure is just getting started!</description>
+      <guid isPermaLink="false">blog-24316097</guid>
+      <category>us</category>
+      <pubDate>Fri, 06 Nov 2026 23:10:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
